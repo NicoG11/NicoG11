@@ -2,7 +2,7 @@
 
 ## Hi zusammen 👋, ich bin Nico!
 
-Ich bin ein leidenschaftlicher **Webentwickler**, der großen Wert auf sauberen Code, moderne Frameworks und intuitive Benutzererfahrungen legt.
+Ich bin ein leidenschaftlicher **Webentwickler**, der großen Wert auf Clean Code, moderne Frameworks und intuitive Benutzererfahrungen legt.
 
 Meine Reise begann mit **QBasic** (ja, ich bin steinalt! 😉), das ich mir in jungen Jahren selbst beigebracht habe. Ein Schlüsselmoment war, als ich auf einer Heft-CD den **Netscape Communicator** entdeckte, der mir die Augen für das World Wide Web öffnete. Mit dem integrierten **Netscape Composer** konnte ich meine ersten **Webseiten** erstellen, was mir riesigen Spaß machte. Für unseren Sportverein realisierte ich mein erstes größeres **Webseiten-Projekt**, was meine Begeisterung für die **Webentwicklung** weiter entfachte. 
 Seitdem habe ich mich Schritt für Schritt auf diesem Gebiet spezialisiert.
