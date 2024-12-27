@@ -17,7 +17,7 @@ Seitdem habe ich mich Schritt für Schritt auf diesem Gebiet spezialisiert.
 Mit 14 Jahren, nachdem ich mir meinen ersten PC 💻 zusammengespart hatte, brachte ich mir selbst **QBasic** bei. In der Schule lernte ich **Pascal** und **Delphi**.
 
 🎓 **Informatikstudium**  
-An der Uni lernte ich Java und und kam mit den verschiedensten Programmiersprachen und Konzepte in Kontakt. Diese Vielfalt hat meine Herangehensweise an die Softwareentwicklung geprägt.
+An der Uni lernte ich Java und kam mit den verschiedensten Programmiersprachen und Konzepte in Kontakt. Diese Vielfalt hat meine Herangehensweise an die Softwareentwicklung geprägt.
 
 🌐 **Leidenschaft für die Webentwicklung**  
 Von Anfang an hat mich die Webentwicklung fasziniert. Sie macht mir nicht nur am meisten Spaß, sondern fühlt sich nicht wie Arbeit an, sondern wie die Verwirklichung von Ideen.
