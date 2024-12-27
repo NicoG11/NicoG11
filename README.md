@@ -66,6 +66,17 @@ Ich probiere gerne neue Tools und Frameworks aus, um mit den neuesten Entwicklun
 
 <br>
 
+### Und sonst so?
+
+🔭 Ich erkunde derzeit die Welt der KI 🚀.
+
+🌱 Ich lerne aktuell maschinelles Lernen (ML) und beschäftige mich mit verschiedenen Algorithmen 🛠.
+
+💬 Frag mich gerne zu allem, ich helfe gerne weiter (wenn ich kann ✨).
+
+
+<br>
+
 ---
 (eng)
 
@@ -132,6 +143,16 @@ I enjoy exploring new tools and frameworks to stay up-to-date with the latest tr
 ⚡ Tech enthusiast: I love exploring new JavaScript frameworks, even though my to-do list keeps growing.
 
 <br>
+
+### Stuff
+
+🔭 I’m currently exploring AI 🚀.
+
+🌱 I’m currently learning ML and learning about different algorithms 🛠.
+
+💬 Ask me about anything, I would be glad to help (if I could ✨).
+
+
 <br>
 <br>
 <br>
