@@ -2,7 +2,7 @@
 
 ## Hi zusammen 👋, ich bin Nico!
 
-Ich bin ein leidenschaftlicher **Webentwickler**, der großen Wert auf Clean Code, moderne Frameworks und intuitive Benutzererfahrungen legt.
+**Webentwicklung ist meine Leidenschaft** –  Fokus auf Clean Code, moderne Technologien und benutzerfreundliche Interfaces
 
 Meine Reise begann mit **QBasic** (ja, ich bin steinalt! 😉), das ich mir in jungen Jahren selbst beigebracht habe. Ein Schlüsselmoment war, als ich auf einer Heft-CD den **Netscape Communicator** entdeckte, der mir die Augen für das World Wide Web öffnete. Mit dem integrierten **Netscape Composer** konnte ich meine ersten **Webseiten** erstellen, was mir riesigen Spaß machte. Für unseren Sportverein realisierte ich mein erstes größeres **Webseiten-Projekt**, was meine Begeisterung für die **Webentwicklung** weiter entfachte. 
 Seitdem habe ich mich Schritt für Schritt auf diesem Gebiet spezialisiert.
@@ -13,11 +13,8 @@ Seitdem habe ich mich Schritt für Schritt auf diesem Gebiet spezialisiert.
 
 ### 🚀 Mein Werdegang
 
-🖥️ **Der Anfang**  
 Mit 14 Jahren, nachdem ich mir meinen ersten PC 💻 zusammengespart hatte, brachte ich mir selbst **QBasic** bei. In der Schule lernte ich **Pascal** und **Delphi**.
-
-🎓 **Informatikstudium**  
-An der Uni lernte ich Java und kam mit den verschiedensten Programmiersprachen und Konzepte in Kontakt. Diese Vielfalt hat meine Herangehensweise an die Softwareentwicklung geprägt.
+🎓 An der Uni lernte ich Java und kam mit den verschiedensten Programmiersprachen und Konzepte in Kontakt. Diese Vielfalt hat meine Herangehensweise an die Softwareentwicklung geprägt.
 
 🌐 **Leidenschaft für die Webentwicklung**  
 Von Anfang an hat mich die Webentwicklung fasziniert. Sie macht mir nicht nur am meisten Spaß, sondern fühlt sich nicht wie Arbeit an, sondern wie die Verwirklichung von Ideen.
@@ -58,7 +55,6 @@ Ich probiere gerne neue Tools und Frameworks aus, um mit den neuesten Entwicklun
 <br>
 
 ### 🌈 Fun Facts
-#### Was macht mich einzigartig?
 
 🚀 Leidenschaft für 3D-Druck seit 2018: Ich liebe es, kreative Designs zum Leben zu erwecken, wie dekorative Figuren oder funktionale Bauteile. [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@3Dprint_LayerFlowTech) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/3Dprint_LayerFlowTech)
@@ -95,11 +91,9 @@ My journey began with **QBasic** (yes, I'm that old 😉), which I taught myself
 <br>
 
 ### 🚀 My Journey
-🖥️ The Beginning
-At the age of 14, after saving up for my first PC 💻, I taught myself QBasic. In school, I expanded my knowledge with Pascal and Delphi.
 
-🎓 Computer Science Studies
-At university, I learned Java and was introduced to various programming languages and concepts. This diversity shaped my approach to software development.
+At the age of 14, after saving up for my first PC 💻, I taught myself QBasic. In school, I expanded my knowledge with Pascal and Delphi.
+🎓 At university, I learned Java and was introduced to various programming languages and concepts. This diversity shaped my approach to software development.
 
 🌐 Passion for Web Development
 From the very beginning, web development has fascinated me. It’s not just the most fun; it feels like bringing ideas to life rather than "work."
@@ -139,7 +133,6 @@ I enjoy exploring new tools and frameworks to stay up-to-date with the latest tr
 <br>
 
 ### 🌈 Fun Facts
-#### What makes me unique?
 
 🚀 Passionate about 3D printing since 2018: I enjoy bringing creative designs to life, from decorative figures to functional components. [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@3Dprint_LayerFlowTech) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/3Dprint_LayerFlowTech)
