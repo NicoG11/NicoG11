@@ -4,8 +4,7 @@
 
 **Webentwicklung ist meine Leidenschaft** –  Fokus auf Clean Code, moderne Technologien und benutzerfreundliche Interfaces
 
-Meine Reise begann mit **QBasic** (ja, ich bin steinalt! 😉), das ich mir in jungen Jahren selbst beigebracht habe. Ein Schlüsselmoment war, als ich auf einer Heft-CD den **Netscape Communicator** entdeckte, der mir die Augen für das World Wide Web öffnete. Mit dem integrierten **Netscape Composer** konnte ich meine ersten **Webseiten** erstellen, was mir riesigen Spaß machte. Für unseren Sportverein realisierte ich mein erstes größeres **Webseiten-Projekt**, was meine Begeisterung für die **Webentwicklung** weiter entfachte. 
-Seitdem habe ich mich Schritt für Schritt auf diesem Gebiet spezialisiert.
+Meine Reise begann mit **QBasic** (ja, ich bin steinalt! 😉), das ich mir in jungen Jahren selbst beigebracht habe. Ein Schlüsselmoment war, als ich auf einer Heft-CD den **Netscape Communicator** entdeckte, der mir die Augen für das World Wide Web öffnete. Mit dem integrierten **Netscape Composer** konnte ich meine ersten **Webseiten** erstellen, was mir riesigen Spaß machte. Für unseren Sportverein realisierte ich mein erstes größeres **Webseiten-Projekt**, was meine Begeisterung für die **Webentwicklung** weiter entfachte. Seitdem habe ich mich Schritt für Schritt auf diesem Gebiet spezialisiert.
 
 🌟 _"Code ist meine Kunst, und das Web ist meine Leinwand."_ 🌟
 
@@ -20,7 +19,7 @@ Mit 14 Jahren, nachdem ich mir meinen ersten PC 💻 zusammengespart hatte, brac
 Von Anfang an hat mich die Webentwicklung fasziniert. Sie macht mir nicht nur am meisten Spaß, sondern fühlt sich nicht wie Arbeit an, sondern wie die Verwirklichung von Ideen.
 
 💼 **Berufserfahrung**  
-Mit über **15 Jahren Erfahrung** in der Webentwicklung war ich meist als **Fullstack-Webentwickler** tätig. In den letzten Jahren habe ich vor allem folgende Tools und Technologien genutzt:
+Mit über **15 Jahren Erfahrung** in der Webentwicklung bin/war ich meist als **Fullstack-Webentwickler** tätig. In den letzten Jahren habe ich vor allem folgende Tools und Technologien genutzt:
 
 #### 🌟 **Frontend**  
 
@@ -159,6 +158,7 @@ I enjoy exploring new tools and frameworks to stay up-to-date with the latest tr
 --- 
 *{FYI}*
 
+(2024)
 
 
 **NicoG11/NicoG11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
