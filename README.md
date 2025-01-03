@@ -10,16 +10,11 @@ Meine Reise begann mit **QBasic** (ja, ich bin steinalt! 😉), das ich mir in j
 
 <br>
 
-### 🚀 Mein Werdegang
+### 💼 **Job**  
+    - > **15 Jahre Erfahrung** in der Webentwicklung bin ich 
+    - meist **Fullstack-Webentwickler**
 
-Mit 14 Jahren, nachdem ich mir meinen ersten PC 💻 zusammengespart hatte, brachte ich mir selbst **QBasic** bei. In der Schule lernte ich **Pascal** und **Delphi**.
-🎓 An der Uni lernte ich Java und kam mit den verschiedensten Programmiersprachen und Konzepte in Kontakt. Diese Vielfalt hat meine Herangehensweise an die Softwareentwicklung geprägt.
-
-🌐 **Leidenschaft für die Webentwicklung**  
-Von Anfang an hat mich die Webentwicklung fasziniert. Sie macht mir nicht nur am meisten Spaß, sondern fühlt sich nicht wie Arbeit an, sondern wie die Verwirklichung von Ideen.
-
-💼 **Berufserfahrung**  
-Mit über **15 Jahren Erfahrung** in der Webentwicklung bin/war ich meist als **Fullstack-Webentwickler** tätig. In den letzten Jahren habe ich vor allem folgende Tools und Technologien genutzt:
+In den letzten Jahren habe ich vor allem folgende Tools und Technologien genutzt:
 
 #### 🌟 **Frontend**  
 
@@ -63,16 +58,6 @@ Ich probiere gerne neue Tools und Frameworks aus, um mit den neuesten Entwicklun
 ⚡ Technik-Enthusiast: Ich liebe es, neue JavaScript-Frameworks zu entdecken, auch wenn meine To-Do-Liste immer länger wird.
 
 <br>
-
-### Und sonst so?
-
-🔭 Ich erkunde derzeit die Welt der KI 🚀.
-
-🌱 Ich lerne aktuell maschinelles Lernen (ML) und beschäftige mich mit verschiedenen Algorithmen 🛠.
-
-💬 Frag mich gerne zu allem, ich helfe gerne weiter (wenn ich kann ✨).
-
-
 <br>
 
 ---
@@ -89,15 +74,7 @@ My journey began with **QBasic** (yes, I'm that old 😉), which I taught myself
 
 <br>
 
-### 🚀 My Journey
-
-At the age of 14, after saving up for my first PC 💻, I taught myself QBasic. In school, I expanded my knowledge with Pascal and Delphi.
-🎓 At university, I learned Java and was introduced to various programming languages and concepts. This diversity shaped my approach to software development.
-
-🌐 Passion for Web Development
-From the very beginning, web development has fascinated me. It’s not just the most fun; it feels like bringing ideas to life rather than "work."
-
-💼 Professional Experience
+### 💼 Professional Experience
 With over 15 years of experience in web development, I have primarily worked as a Fullstack Web Developer. In recent years, I have focused on the following tools and technologies:
 
 #### 🌟 **Frontend**  
@@ -141,15 +118,6 @@ I enjoy exploring new tools and frameworks to stay up-to-date with the latest tr
 ⚡ Tech enthusiast: I love exploring new JavaScript frameworks, even though my to-do list keeps growing.
 
 <br>
-
-### Stuff
-
-🔭 I’m currently exploring AI 🚀.
-
-🌱 I’m currently learning ML and learning about different algorithms 🛠.
-
-💬 Ask me about anything, I would be glad to help (if I could ✨).
-
 
 <br>
 <br>
