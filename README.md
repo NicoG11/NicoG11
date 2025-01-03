@@ -126,7 +126,7 @@ I enjoy exploring new tools and frameworks to stay up-to-date with the latest tr
 --- 
 *{FYI}*
 
-(2024)
+![©2024](https://img.shields.io/badge/©2024-8A2BE2)
 
 
 **NicoG11/NicoG11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
