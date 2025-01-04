@@ -7,12 +7,10 @@
 Meine Reise begann mit **QBasic** (ja, ich bin steinalt! 😉), das ich mir in jungen Jahren selbst beigebracht habe. Ein Schlüsselmoment war, als ich auf einer Heft-CD den **Netscape Communicator** entdeckte, der mir die Augen für das World Wide Web öffnete. Mit dem integrierten **Netscape Composer** konnte ich meine ersten **Webseiten** erstellen, was mir riesigen Spaß machte. Für unseren Sportverein realisierte ich mein erstes größeres **Webseiten-Projekt**, was meine Begeisterung für die **Webentwicklung** weiter entfachte. Seitdem habe ich mich Schritt für Schritt auf diesem Gebiet spezialisiert.
 
 🌟 _"Code ist meine Kunst, und das Web ist meine Leinwand."_ 🌟
-
 <br>
 
 ### 💼 **Job**  
-    - > **15 Jahre Erfahrung** in der Webentwicklung bin ich 
-    - meist **Fullstack-Webentwickler**
+Seit mehr als **15 Jahre Erfahrung** in der Webentwicklung tätig und dass meist als **Fullstack-Webentwickler**
 
 In den letzten Jahren habe ich vor allem folgende Tools und Technologien genutzt:
 
@@ -70,7 +68,6 @@ I'm a passionate **web developer** with a love for clean code, modern frameworks
 My journey began with **QBasic** (yes, I'm that old 😉), which I taught myself as a teenager. A pivotal moment was discovering **Netscape Communicator** on a magazine CD, which opened my eyes to the World Wide Web. Using the integrated **Netscape Composer**, I created my first **web pages**, which I thoroughly enjoyed. For our sports club, I developed my first major **website project**, further igniting my passion for **web development**. Since then, I've been steadily specializing in this field.
 
 🌟 _"Coding is my art, and the web is my canvas."_ 🌟
-
 
 <br>
 
