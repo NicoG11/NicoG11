@@ -10,9 +10,7 @@ Meine Reise begann mit **QBasic** (ja, ich bin steinalt! 😉), das ich mir in j
 <br>
 
 ### 💼 **Job**  
-Seit mehr als **15 Jahre Erfahrung** in der Webentwicklung tätig und dass meist als **Fullstack-Webentwickler**
-
-In den letzten Jahren habe ich vor allem folgende Tools und Technologien genutzt:
+Mit über **15 Jahren Erfahrung in der Webentwicklung** hatte ich die Gelegenheit, an vielen spannenden Projekten mitzuwirken. Die meiste Zeit war ich als **Fullstack-Webentwickler** tätig und habe in den letzten Jahren mit einer Vielzahl an Tools und Technologien gearbeitet (hier ein paar Beispiele, ohne Anspruch auf Vollständigkeit):
 
 #### 🌟 **Frontend**  
 
