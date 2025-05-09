@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Nico!
 
-I'm a passionate **web developer** with a love for clean code, modern frameworks, and creating intuitive user experiences. 
+I'm a passionate **web developer**. 
 
 My journey began with **QBasic** (yes, I'm that old 😉), which I taught myself as a teenager. A pivotal moment was discovering **Netscape Communicator** on a magazine CD, which opened my eyes to the World Wide Web. Using the integrated **Netscape Composer**, I created my first **web pages**, which I thoroughly enjoyed. For our sports club, I developed my first major **website project**, further igniting my passion for **web development**. Since then, I've been steadily specializing in this field.
 
@@ -23,16 +23,17 @@ In recent years, I have focused on the following tools and technologies:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Materialize CSS](https://img.shields.io/badge/-materialize--css-ff69b4?style=flat-square&logo=materialize--css&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white)
+...
 
 #### 🛠️ **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square) ![ManticoreSearch](https://img.shields.io/badge/-ManticoreSearch-444444?style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
-
+...
 
 #### 📦 **Other Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat-square) ![Vite.js](https://img.shields.io/badge/-Vite.js-646CFF?logo=vite&logoColor=white&style=flat-square)  
-
+...
 
 #### 🌱 Always Learning
 I enjoy exploring new tools and frameworks to stay up-to-date with the latest trends in web development.
@@ -63,7 +64,7 @@ I enjoy exploring new tools and frameworks to stay up-to-date with the latest tr
 
 ## Hi zusammen 👋, ich bin Nico!
 
-**Webentwicklung ist meine Leidenschaft** –  Fokus auf Clean Code, moderne Technologien und benutzerfreundliche Interfaces
+**Webentwicklung ist meine Leidenschaft**
 
 Meine Reise begann mit **QBasic** (ja, ich bin steinalt! 😉), das ich mir in jungen Jahren selbst beigebracht habe. Ein Schlüsselmoment war, als ich auf einer Heft-CD den **Netscape Communicator** entdeckte, der mir die Augen für das World Wide Web öffnete. Mit dem integrierten **Netscape Composer** konnte ich meine ersten **Webseiten** erstellen, was mir riesigen Spaß machte. Für unseren Sportverein realisierte ich mein erstes größeres **Webseiten-Projekt**, was meine Begeisterung für die **Webentwicklung** weiter entfachte. Seitdem habe ich mich Schritt für Schritt auf diesem Gebiet spezialisiert.
 
@@ -82,17 +83,17 @@ Mit über **15 Jahren Erfahrung in der Webentwicklung** hatte ich die Gelegenhei
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Materialize CSS](https://img.shields.io/badge/-materialize--css-ff69b4?style=flat-square&logo=materialize--css&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white) 
-
+...
 
 #### 🛠️ **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square) ![ManticoreSearch](https://img.shields.io/badge/-ManticoreSearch-444444?style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
-
+...
 
 #### 📦 **Weitere Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat-square) ![Vite.js](https://img.shields.io/badge/-Vite.js-646CFF?logo=vite&logoColor=white&style=flat-square)  
-
+...
 
 🌱 **Immer am Lernen**  
 Ich probiere gerne neue Tools und Frameworks aus, um mit den neuesten Entwicklungen in der Webentwicklung Schritt zu halten.
